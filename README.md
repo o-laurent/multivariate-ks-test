@@ -4,7 +4,7 @@ This repository implements the extension of the KS test proposed by Michael Naam
 [On the tight constant in the multivariate Dvoretzky–Kiefer–Wolfowitz inequality](https://www.sciencedirect.com/science/article/pii/S016771522100050X/pdf)
 in the one and two-sample cases.
 
-This package was translated from the original MATLAB code by the author.
+This package was translated from the original MATLAB code provided by the author.
 
 Please feel free to open an issue if you have any problems or questions.
 
